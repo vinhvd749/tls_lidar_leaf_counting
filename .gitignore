@@ -1,0 +1,21 @@
+# ignore Jupyter notebook checkpoints, .pkl files, zip and csv files
+.ipynb_checkpoints/
+**/*.pkl
+**/*.zip
+**/*.csv*
+# ignore Python cache files
+__pycache__/
+*.py[cod]
+# ignore virtual environment folders
+venv/
+env/
+.venv/
+.env/
+# ignore VSCode settings folder
+.vscode/
+# ignore system files
+.DS_Store
+Thumbs.db
+# ignore TreeQSM and helios
+TreeQSM/
+helios/
