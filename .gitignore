@@ -3,11 +3,15 @@
 **/*.pkl
 **/*.zip
 **/*.csv*
+**/*.npy
+**/*.laz
+**/*.txt
 # ignore Python cache files
 __pycache__/
 *.py[cod]
 # ignore virtual environment folders
 venv/
+hide/
 env/
 .venv/
 .env/
