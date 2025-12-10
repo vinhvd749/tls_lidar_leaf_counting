@@ -10,3 +10,4 @@ For inspecting code and visualizations, please refer to [leaf_counting.ipynb](./
 
 For the case of multi-scan data, please refer to [leaf_counting_multi_scan.ipynb](./leaf_counting_multi_scan.ipynb).
 
+For presentation slides, please refer to [TAU02E_seminar.pdf](./TAU02E_seminar.pdf).
