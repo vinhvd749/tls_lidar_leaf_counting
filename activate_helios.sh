@@ -1,1 +1,0 @@
-source activate /home/vinhvd/helios/
