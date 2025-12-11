@@ -1,6 +1,6 @@
 # tls_lidar_leaf_counting
 
-![abstract](./abstract_natural.png)
+![abstract](./images/abstract_natural.png)
 
 This repository contains code and data for leaf counting and area estimation using 3D point cloud data obtained from terrestrial laser scanning (TLS) of trees. The project focuses on processing the point cloud data to identify and count leaves, as well as estimate their surface area.
 
